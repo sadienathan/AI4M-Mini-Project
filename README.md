@@ -8,7 +8,7 @@ This repo contains:
     
 To see the outcomes, follow this link: https://artslondon-my.sharepoint.com/:u:/g/personal/s_nathan0620221_arts_ac_uk/EUtUh67HS-BDrAfr1Tpvn5kB7tUveTPDbpaNjg-8G7t-MA?e=foqdkh
 
--Output folder, containing imagesS
+-Output folder, containing images
     
 -A Book in the form of a pdf
 
