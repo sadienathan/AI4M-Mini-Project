@@ -4,7 +4,7 @@
 
 This repo contains:
 
--3 Jupyter notebooks
+-3 Jupyter notebooks (there are links to the other notebooks I used further down, in the training and generation paragraph
     
 To see the outcomes, follow this link: https://artslondon-my.sharepoint.com/:u:/g/personal/s_nathan0620221_arts_ac_uk/EUtUh67HS-BDrAfr1Tpvn5kB7tUveTPDbpaNjg-8G7t-MA?e=foqdkh
 
