@@ -2,12 +2,17 @@
  
  This folder contains the inputs, outputs, and code used in my AI for Media mini project. As some of the notebooks I used to train and generate were on google colab I've included links to those. I used a self-collected dataset of images for this project with the aim of generating new images
 
-This folder contains:
+This repo contains:
+
     3 Jupyter notebooks
-    3 different datasets (animals, compounded_data, Pages)
+    
+To see the outcomes, follow this link: https://artslondon-my.sharepoint.com/:u:/g/personal/s_nathan0620221_arts_ac_uk/EUtUh67HS-BDrAfr1Tpvn5kB7tUveTPDbpaNjg-8G7t-MA?e=foqdkh
+
     Output folder, containing imagesS
+    
     A Book in the form of a pdf
 
+PLEASE NOTE: I had issues with uploading my files to the sharepoint so I had to greatly reduce the examples of the outcomes in these files so that I could upload it. The outputs that remain are representative of hundreds of images that couldn't be uploaded
 
 Data Collection
     To collect the data in this project I used Pin down to scrape images off of pinterest, this github repo ( https://github.com/dixudx/tumblr-crawler ) to scrape several tumblr blogs and this internet archive scraper ( https://github.com/terrybroad/internet-archive-downloader ). This resulted in collecting 10,728 images
